@@ -17,3 +17,9 @@ writting/*.aux
 tasks/passage_matching/checkpoints
 tasks/passage_matching/outputs
 /tasks/run_deep_walk/cora/
+
+data/abstracts.txt
+data/authors.txt
+data/edgelist.txt
+data/authors.json
+data/test.txt
